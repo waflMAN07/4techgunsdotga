@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 export default function Quote() {
     const quotes = [
-        ["Not built with PHP", "tech"],
+        ["fun game to make friends", "wafl"],
         ["mx blue", "ribkix"],
         ["3", "Maknix"],
         ["Karby was here :DDD", "karbis"],
