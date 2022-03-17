@@ -2,7 +2,11 @@ export default function Home() {
   return (
     <div>
 <p style={{textAlign: "center"}}>test</p>
-<p style={{textAlign: "center"}}>test's</p>
     </div>
+      <style jsx global>{`
+        body {
+          background-color:rgb(27, 27, 27);;
+        }
+      `}</style>
   );
 }
