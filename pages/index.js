@@ -4,7 +4,7 @@ export default function Home() {
 <p style={{textAlign: "center"}}>test</p>
 <style jsx>
 body {
-  background-color: place-colour-here;
+  background-color: #000000;
 }
 </style>
     </div>
