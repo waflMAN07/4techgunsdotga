@@ -2,11 +2,11 @@ export default function Home() {
   return (
     <div>
 <p style={{textAlign: "center"}}>test</p>
+<style jsx>
+body {
+  background-color: place-colour-here;
+}
+</style>
     </div>
-      <style jsx global>{`
-        body {
-          background-color:rgb(27, 27, 27);;
-        }
-      `}</style>
   );
 }
