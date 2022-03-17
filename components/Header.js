@@ -11,13 +11,13 @@ export default function Header() {
       |
       <Link href="/avatar"><a className={styles.defaultLinkButton}>&#xf11b; Avatar</a></Link>
       |
-      <Link href="/create"><a className={styles.defaultLinkButton}>Create</a></Link>
+      <Link href="/create"><a className={styles.defaultLinkButton}>&#xf5e2; Create</a></Link>
       |
-      <Link href="/users"><a className={styles.defaultLinkButton}>Users</a></Link>
+      <Link href="/users"><a className={styles.defaultLinkButton}>&#xf50d; Users</a></Link>
       |
-      <Link href="https://discord.com"><a className={styles.defaultLinkButton}>Discord</a></Link>
+      <Link href="https://discord.com"><a className={styles.defaultLinkButton}>&#xfb6e; Discord</a></Link>
       |
-      <Link href="index.html"><a className={styles.defaultLinkButton}>Log Out</a></Link>
+      <Link href="index.html"><a className={styles.defaultLinkButton}>&#xfafc; Log Out</a></Link>
       <hr />
     </div>
   )
