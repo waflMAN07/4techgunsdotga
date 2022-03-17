@@ -15,7 +15,7 @@ export default function Header() {
       |
       <Link href="/users"><a className={styles.defaultLinkButton}>&#xf50d; Users</a></Link>
       |
-      <Link href="https://discord.com"><a className={styles.defaultLinkButton}>&#xfb6e; Discord</a></Link>
+      <Link href="https://discord.gg/npwhfdZFpW"><a className={styles.defaultLinkButton}>&#xfb6e; Discord</a></Link>
       |
       <Link href="index.html"><a className={styles.defaultLinkButton}>&#xfafc; Log Out</a></Link>
       <hr />
