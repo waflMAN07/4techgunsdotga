@@ -9,7 +9,9 @@ export default function Header() {
       |
       <Link href="/about"><a className={styles.defaultLinkButton}>&#xf7fb; About</a></Link>
       |
-      <Link href="/pyseries"><a className={styles.defaultLinkButton}>The Py Series</a></Link>
+      <Link href="/pyseries"><a className={styles.defaultLinkButton}>U+1F3AE; The Py Series</a></Link>
+      |
+      <Link href="/avatar"><a className={styles.defaultLinkButton}>Avatar</a></Link>
       <hr />
     </div>
   )
