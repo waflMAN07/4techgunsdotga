@@ -7,9 +7,9 @@ export default function Header() {
     <div>
       <Link href="/" ><a className={styles.defaultLinkButton}>&#xf7db; Home</a></Link>
       |
-      <Link href="/games"><a className={styles.defaultLinkButton}>&#xf7fb; Games</a></Link>
+      <Link href="/games"><a className={styles.defaultLinkButton}>&#xf11b; Games</a></Link>
       |
-      <Link href="/avatar"><a className={styles.defaultLinkButton}>&#xf11b; Avatar</a></Link>
+      <Link href="/avatar"><a className={styles.defaultLinkButton}>&#xf7fb; Avatar</a></Link>
       |
       <Link href="/create"><a className={styles.defaultLinkButton}>&#xf5e2; Create</a></Link>
       |
