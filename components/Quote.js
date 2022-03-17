@@ -3,10 +3,10 @@ import Link from 'next/link'
 
 export default function Quote() {
     const quotes = [
-        ["fun game to make friends", "wafl"],
-        ["mx blue", "ribkix"],
-        ["3", "Maknix"],
-        ["Karby was here :DDD", "karbis"],
+        ["fun game to make friends"],
+        ["play anything build anything"],
+        ["Hay!", "wafl"],
+        ["e", "karbis"],
         //["flaky is hot", "Ragarnoky"],
         ["Rio wasn't here", "Rako"],
         //["PAKISTAN ZINDABAD", "Ragarnoky"],
