@@ -9,6 +9,11 @@ export default function Footer()
             <a href="a.png">Built with KarbML 6&trade;</a>
             <p className={styles.comiksand}>POWERED BY KARBIS STUDIO BACKPAGE</p>
             <p className={styles.comiksand}>ALSO POWERED BY PAKISTAN SERVER IN LAHORE WITH 66954MS PING</p>
+<div class="center-text">
+<a href="#">Link goes here</a>
+</div>
+
+
 <a href="#" class="center-text">Link goes here</a>
         </div>
     )
