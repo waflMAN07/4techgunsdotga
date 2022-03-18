@@ -9,6 +9,7 @@ export default function Footer()
             <a href="a.png">Built with KarbML 6&trade;</a>
             <p className={styles.comiksand}>POWERED BY KARBIS STUDIO BACKPAGE</p>
             <p className={styles.comiksand}>ALSO POWERED BY PAKISTAN SERVER IN LAHORE WITH 66954MS PING</p>
+            <p style={{textAlign: "center"}}{styles.comiksand}>Where coming soon, sorry where still building the css</p>
         </div>
     )
 }
