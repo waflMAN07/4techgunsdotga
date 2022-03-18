@@ -13,6 +13,6 @@ a{
   display: block;
   text-align: center;
 }
-<a href="#">My link</a>
+<center><a href="#">My link</a></center>
     )
 }
