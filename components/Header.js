@@ -7,7 +7,7 @@ export default function Header() {
     <div>
       <Link href="/dash" ><a className={styles.defaultLinkButton}>&#xf7db; Home</a></Link>
       |
-      <Link href="/games"><a className={styles.defaultLinkButton}>&#xf11b; Games</a></Link>
+      <Link href="/games"><a className={styles.defaultLinkButton}>&#xf11b; Forts</a></Link>
       |
       <Link href="/avatar"><a className={styles.defaultLinkButton}>&#xf7fb; Avatar</a></Link>
       |
